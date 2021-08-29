@@ -21,7 +21,7 @@ Be sure to uninstall BIND or any other DNS services on your machine before runni
 First, download the script and make it executable:
 
 ```
-wget https://github.com/0x1byte/unbound/blob/master/unbound-install.sh
+https://raw.githubusercontent.com/0x1byte/unbound/master/unbound-install.sh
 chmod +x unbound-install.sh
 ```
 
